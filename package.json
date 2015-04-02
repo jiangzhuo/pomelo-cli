@@ -20,7 +20,7 @@
     "optimist": ">=0.6.0",
     "cliff" : ">=0.1.8",
     "pomelo-admin" : "*",
-    "pomelo-logger" : "*",
+    "pomelo-logger" : "0.1.6",
     "async" : ">=0.1.0"
   },
   "author": "fantasyni",
